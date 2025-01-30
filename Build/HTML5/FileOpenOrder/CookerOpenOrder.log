@@ -1,715 +1,645 @@
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 0
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DefaultLitSpriteMaterial.uasset" 2
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 3
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DefaultSpriteMaterial.uasset" 4
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DummySpriteTexture.uasset" 5
-"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 6
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/TranslucentLitSpriteMaterial.uasset" 7
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 8
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/TranslucentUnlitSpriteMaterial.uasset" 9
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/DarkWood.uasset" 10
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Gold.uasset" 11
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Metal.uasset" 12
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Wood.uasset" 13
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Chest_Gold.uasset" 14
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Coin_Pile.uasset" 15
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Boots.uasset" 16
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Detail.uasset" 17
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Eye.uasset" 18
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Hair.uasset" 19
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Material_006.uasset" 20
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Pants.uasset" 21
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Pupil.uasset" 22
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Shirt.uasset" 23
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Skin.uasset" 24
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/UnderShirt.uasset" 25
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/White.uasset" 26
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Character_Animated.uasset" 27
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree5.uasset" 28
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree5_Mat.uasset" 29
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Bush.uasset" 30
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Flower2.uasset" 31
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Flower3.uasset" 32
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Mushroom.uasset" 33
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 34
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 35
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 36
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 37
-"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset" 38
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/M_Tree_Tree3_Mat_68850E17413A5C5F554E47A09027D62F.uasset" 39
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/SmallTree.uasset" 40
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree.uasset" 41
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Brown.uasset" 42
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/DarkBrown.uasset" 43
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Gold.uasset" 44
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Backpack.uasset" 45
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 46
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/S_Subtitles.uasset" 47
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/WBP_Subtitles.uasset" 48
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/BP_SubtitlesManager.uasset" 49
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/BP_NarrationManager.uasset" 50
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_AMemory.uasset" 51
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_YouBroketheWorld.uasset" 52
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/You_broke_the_world.uasset" 53
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_YouBrokeTheWorld.uasset" 54
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/Teen.uasset" 55
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/Teen_Bd.uasset" 56
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/Teen_Font.uasset" 57
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-Classroom.uasset" 58
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-Clinic.uasset" 59
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-DiningHall.uasset" 60
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-DormitoryCommonRoom.uasset" 61
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-DrawbridgeExit.uasset" 62
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-EnchantmentRoom.uasset" 63
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-Field.uasset" 64
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-Garden.uasset" 65
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-HeadmastersOffice.uasset" 66
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-Library.uasset" 67
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/MapRoomNames/Word-MainHall.uasset" 68
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/WBP_UI.uasset" 69
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/GM_VorpalDagger.uasset" 70
-"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 71
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/IMG_6221_2_.uasset" 72
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/IMG_6222_1_.uasset" 73
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/BP_Button.uasset" 74
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/Scroll_Empty.uasset" 75
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/Word-Exit.uasset" 76
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/Word-Play.uasset" 77
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/WBP_End.uasset" 78
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/VorpalDag/color.uasset" 79
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/VorpalDag/swordMat.uasset" 80
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/VorpalDag/Sword317.uasset" 81
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 82
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 83
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 84
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Particles/P_dirt.uasset" 85
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Burst_M.uasset" 86
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_Burst.uasset" 87
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 88
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 89
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 90
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 91
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 92
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Particles/P_Other.uasset" 93
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/SoundEffects/DaggerExplosion.uasset" 94
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/SoundEffects/DaggerExploding.uasset" 95
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/SoundEffects/DaggerOnDirt.uasset" 96
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/SoundEffects/DaggerPickup.uasset" 97
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/SoundEffects/PickupDagger.uasset" 98
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 99
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/Arrow.uasset" 100
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/Arrow_Sprite.uasset" 101
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/E_DaggerMovement.uasset" 102
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/EvilBGM.uasset" 103
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/SC_BGMEvil.uasset" 104
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/NeutralBGM.uasset" 105
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/SC_BGMNeutral.uasset" 106
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/BP_VorpalDaggerController.uasset" 107
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_Opener.uasset" 108
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Opening.uasset" 109
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_opener.uasset" 110
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 111
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 112
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 113
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 114
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/DarkWood.uasset" 115
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Golden.uasset" 116
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/LightGold.uasset" 117
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/LightWood.uasset" 118
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Axe_small_Golden.uasset" 119
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Axe_small_Golden_DM.uasset" 120
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_15.uasset" 121
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_15.uasset" 122
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Bag.uasset" 123
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Bag_DM.uasset" 124
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_17.uasset" 125
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_17.uasset" 126
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/DarkWood.uasset" 127
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Metal.uasset" 128
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Wood.uasset" 129
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Barrel.uasset" 130
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Barrel_DM.uasset" 131
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_18.uasset" 132
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_18.uasset" 133
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Texture.uasset" 134
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/BigBush.uasset" 135
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/BigBush_DM.uasset" 136
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_21.uasset" 137
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_21.uasset" 138
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/BiggerBush.uasset" 139
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/BiggerBush_DM.uasset" 140
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_22.uasset" 141
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_22.uasset" 142
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/BigTree2.uasset" 143
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/BigTree2_DM.uasset" 144
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_23.uasset" 145
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_23.uasset" 146
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/BigTree.uasset" 147
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/BigTree_DM.uasset" 148
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_24.uasset" 149
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_24.uasset" 150
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Beige.uasset" 151
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/DarkRed.uasset" 152
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Book2_Open.uasset" 153
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Book2_Open_DM.uasset" 154
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_29.uasset" 155
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_29.uasset" 156
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Teal.uasset" 157
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Book4_Open.uasset" 158
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Book4_Open_DM.uasset" 159
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_33.uasset" 160
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_33.uasset" 161
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Book.uasset" 162
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Book2.uasset" 163
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Book3.uasset" 164
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Book4.uasset" 165
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Pages.uasset" 166
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Bookcase_Full.uasset" 167
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Bookcase_Full_DM.uasset" 168
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_35.uasset" 169
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_35.uasset" 170
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Black.uasset" 171
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Armor_Black.uasset" 172
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Armor_Black_DM.uasset" 173
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_5.uasset" 174
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_5.uasset" 175
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Armor_Golden.uasset" 176
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Armor_Golden_DM.uasset" 177
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_6.uasset" 178
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_6.uasset" 179
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Crate.uasset" 180
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Crate2_DM.uasset" 181
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Materials/M_Basic_Wall.uasset" 182
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Shapes/Shape_Plane.uasset" 183
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Shapes/Shape_Plane_DM.uasset" 184
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_KeepingScore.uasset" 185
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Keeping_score.uasset" 186
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_KeepingScore.uasset" 187
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Flower4.uasset" 188
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Flower4_Mat.uasset" 189
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_73.uasset" 190
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_73.uasset" 191
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Crate.uasset" 192
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Crate_DM.uasset" 193
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_74.uasset" 194
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_74.uasset" 195
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Metal_Light.uasset" 196
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Doors_RoundArch.uasset" 197
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Doors_RoundArch_DM.uasset" 198
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/used/BP_99.uasset" 199
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_99.uasset" 200
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/Enums/E_AIState.uasset" 201
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/BB_NPC_Base.uasset" 202
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/BP_PatrolRoute.uasset" 203
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/Enums/E_MovementSpeed.uasset" 204
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/BPI_NpcAI.uasset" 205
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/Decorators/BTD_HasPatrolRoute.uasset" 206
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/Tasks/BTT_ClearFocus.uasset" 207
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/Tasks/BTT_MoveAlongPatrolRoute.uasset" 208
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/Tasks/BTT_SetMovementSpeed.uasset" 209
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/BT_NPC_Base.uasset" 210
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/AI/AIC_NPC_Base.uasset" 211
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/PlaceholderTextures/DummySpriteTexture.uasset" 212
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/PlaceholderTextures/FlatNormalMap.uasset" 213
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Materials/M_Basic_Floor.uasset" 214
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 215
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 216
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 217
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 218
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 219
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/P_Explosion.uasset" 220
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 221
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 222
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 223
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Water_N.uasset" 224
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 225
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 226
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/P_Fire.uasset" 227
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/P_Smoke.uasset" 228
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Spark_Core.uasset" 229
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/Materials/M_Spark.uasset" 230
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/P_Sparks.uasset" 231
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Particles/P_Steam_Lit.uasset" 232
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Bush_D.uasset" 233
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Bush_N.uasset" 234
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Props/Materials/M_Bush.uasset" 235
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Props/SM_Bush.uasset" 236
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Shapes/Shape_Cube.uasset" 237
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 238
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Shapes/Shape_Sphere.uasset" 239
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 240
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 241
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 242
-"../../../Engine/Content/BasicShapes/Cone.uasset" 243
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 244
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 245
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 246
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 247
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 248
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 249
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 250
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 251
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 252
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 253
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 254
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 255
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 256
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 257
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 258
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 259
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 260
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 261
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 262
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 263
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 264
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 265
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 266
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 267
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 268
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 269
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 270
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 271
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 272
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 273
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 274
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 275
-"../../../Engine/Content/EditorResources/S_Note.uasset" 276
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 277
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 278
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 279
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 280
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 281
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 282
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 283
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 284
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 285
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 286
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 287
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 288
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 289
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 290
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 291
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 292
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 293
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 294
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 295
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 296
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 297
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 298
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 299
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 300
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 301
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 302
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 303
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 304
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 305
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 306
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 307
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 308
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 309
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 310
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 311
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 312
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 313
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 314
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 315
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 316
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 317
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 318
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 319
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 320
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 321
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 322
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 323
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 324
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 325
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 326
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 327
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 328
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 329
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 330
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 331
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 332
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 333
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 334
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 335
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 336
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 337
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 338
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 339
-"../../../Engine/Content/EngineResources/Black.uasset" 340
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 341
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 342
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 343
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 344
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 345
-"../../../Engine/Content/EngineSounds/Master.uasset" 346
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 347
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 348
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 349
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 350
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 351
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 352
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 353
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 354
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 355
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 356
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 357
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 358
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 359
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 360
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 361
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 362
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 363
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 364
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 365
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 366
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 367
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 368
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 369
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 370
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 371
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 372
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 373
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 374
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 375
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 376
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 377
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 378
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 379
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 380
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 381
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 382
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 383
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 384
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 385
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 387
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 388
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 389
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 390
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 391
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 392
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 393
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/IMG_6219_1_.uasset" 394
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/Word-Back.uasset" 395
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/Word-Controls.uasset" 396
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/Word-Paused.uasset" 397
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/WBP_PauseMenu.uasset" 398
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/image.uasset" 399
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/MenuStuff/Welcome-Scroll_Empty.uasset" 400
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/UI/WBP_WelcomeMenu.uasset" 401
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Maps/MainMenu.umap" 402
-"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 403
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Witch_Skeleton.uasset" 404
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ThirdPerson_Jump.uasset" 405
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ThirdPersonJump_Loop.uasset" 406
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ThirdPersonJump_Start.uasset" 407
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ThirdPersonIdle.uasset" 408
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ThirdPersonRun.uasset" 409
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ThirdPersonWalk.uasset" 410
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ThirdPerson_IdleRun_2D.uasset" 411
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Animations/ABP_Npc.uasset" 412
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Belt.uasset" 413
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Clothes.uasset" 414
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Face.uasset" 415
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Gold.uasset" 416
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Hair.uasset" 417
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Hat.uasset" 418
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Skin.uasset" 419
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Witch_PhysicsAsset.uasset" 420
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/Materials/Witch.uasset" 421
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Particles/P_Blood.uasset" 422
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Npc/BP_NpcBase.uasset" 423
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/BP_NarrationTrigger.uasset" 424
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_BadEndingPart1.uasset" 425
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Bad_ending_part_1.uasset" 426
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_BadEndingPart1.uasset" 427
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_BadEndingPart2.uasset" 428
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Bad_ending_part_2.uasset" 429
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_BadEndingPart2.uasset" 430
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_BadEndingPart3.uasset" 431
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Bad_ending_part_3.uasset" 432
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_BadEndingPart3.uasset" 433
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_GoodEndingPart1.uasset" 434
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Good_ending_part_1.uasset" 435
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_GoodEndingPart1.uasset" 436
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_GoodEndingPart2.uasset" 437
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Good_ending_part_2.uasset" 438
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_GoodEndingPart2.uasset" 439
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_MildEndingPart1.uasset" 440
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/mild_ending_part_1.uasset" 441
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_MildEndingPart1.uasset" 442
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_MildEndingPart2.uasset" 443
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Mild_ending_part_2.uasset" 444
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_MildEndingPart2.uasset" 445
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/BP_NarrationTrigger_End.uasset" 446
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 447
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 448
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 449
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 450
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 451
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 452
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 453
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 454
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 455
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Book2_Closed.uasset" 456
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Book2_Closed_DM.uasset" 457
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_28.uasset" 458
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Cart.uasset" 459
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Cart_DM.uasset" 460
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_49.uasset" 461
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Main.uasset" 462
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Chair.uasset" 463
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Chair_DM.uasset" 464
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/1-50/BP_50.uasset" 465
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/DarkGrey_Floor.uasset" 466
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Grey_Floor.uasset" 467
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Fence_Straight_Modular.uasset" 468
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Fence_Straight_Modular_DM.uasset" 469
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_102.uasset" 470
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Flag.uasset" 471
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Flag_Wall.uasset" 472
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Flag_Wall_DM.uasset" 473
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_107.uasset" 474
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Flower.uasset" 475
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Flower_DM.uasset" 476
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_121.uasset" 477
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Glove.uasset" 478
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Glove_DM.uasset" 479
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_122.uasset" 480
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Green.uasset" 481
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Grass.uasset" 482
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Grass_DM.uasset" 483
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_123.uasset" 484
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Hammer_Double_Golden.uasset" 485
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Hammer_Double_Golden_DM.uasset" 486
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_125.uasset" 487
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Grey.uasset" 488
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Pink.uasset" 489
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Mineral.uasset" 490
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Mineral_DM.uasset" 491
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_130.uasset" 492
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Parchment.uasset" 493
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Parchment_DM.uasset" 494
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_136.uasset" 495
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Marble.uasset" 496
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Pedestal2.uasset" 497
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Pedestal2_DM.uasset" 498
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_137.uasset" 499
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Pedestal.uasset" 500
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Pedestal_DM.uasset" 501
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_138.uasset" 502
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Glass.uasset" 503
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Liquid_Magenta.uasset" 504
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Potion4_Filled.uasset" 505
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Potion4_Filled_DM.uasset" 506
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/101-150/BP_150.uasset" 507
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Liquid_Cyan.uasset" 508
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Potion5_Filled.uasset" 509
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Potion5_Filled_DM.uasset" 510
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_152.uasset" 511
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Liquid_Yellow.uasset" 512
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Potion7_Filled.uasset" 513
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Potion7_Filled_DM.uasset" 514
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_156.uasset" 515
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Potion8_Empty.uasset" 516
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Potion8_Empty_DM.uasset" 517
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_157.uasset" 518
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Potion8_Filled.uasset" 519
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Potion8_Filled_DM.uasset" 520
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_158.uasset" 521
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Potion9_Empty.uasset" 522
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Potion9_Empty_DM.uasset" 523
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_159.uasset" 524
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Liquid_Green.uasset" 525
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Potion9_Filled.uasset" 526
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Potion9_Filled_DM.uasset" 527
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_160.uasset" 528
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Red.uasset" 529
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Ring3.uasset" 530
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Ring3_DM.uasset" 531
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_167.uasset" 532
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Cyan.uasset" 533
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Ring4.uasset" 534
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Ring4_DM.uasset" 535
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_168.uasset" 536
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Green.uasset" 537
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Ring6.uasset" 538
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Ring6_DM.uasset" 539
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_170.uasset" 540
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Stone.uasset" 541
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Statue_Fox.uasset" 542
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Statue_Fox_DM.uasset" 543
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_188.uasset" 544
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Statue.uasset" 545
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Statue_Horse.uasset" 546
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Statue_Horse_DM.uasset" 547
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_189.uasset" 548
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Statue_Stag.uasset" 549
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Statue_Stag_DM.uasset" 550
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_190.uasset" 551
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/DarkSteel.uasset" 552
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/DarkWood_001.uasset" 553
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/LightSteel.uasset" 554
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/LightWood.uasset" 555
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Steel.uasset" 556
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Sword_WallMount.uasset" 557
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Sword_WallMount_DM.uasset" 558
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_199.uasset" 559
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/DarkMetal.uasset" 560
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Table_Big.uasset" 561
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Table_Big_DM.uasset" 562
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/151-200/BP_200.uasset" 563
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Table_Small.uasset" 564
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Table_Small_DM.uasset" 565
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/200-233/BP_201.uasset" 566
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Fire.uasset" 567
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Torch.uasset" 568
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Torch_DM.uasset" 569
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/200-233/BP_203.uasset" 570
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Ceramic.uasset" 571
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Vase.uasset" 572
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Vase_DM.uasset" 573
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/200-233/BP_213.uasset" 574
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Highlights.uasset" 575
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Main.uasset" 576
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Wall.uasset" 577
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Wall_DM.uasset" 578
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/200-233/BP_221.uasset" 579
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Woodfire.uasset" 580
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Woodfire_DM.uasset" 581
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/200-233/BP_233.uasset" 582
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonBrown/OBJ/Fence_90_Modular.uasset" 583
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Fence_90_Modular_DM.uasset" 584
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_100.uasset" 585
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Chalice.uasset" 586
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Chalice_DM.uasset" 587
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_51.uasset" 588
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Chest.uasset" 589
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Chest2_DM.uasset" 590
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_53.uasset" 591
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_54.uasset" 592
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/DestructibleBlueprints/51-100/BP_75.uasset" 593
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Components/Interfaces/BPI_Interactable.uasset" 594
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Components/Interfaces/BPI_Lever.uasset" 595
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DarkWood.uasset" 596
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/LightWood.uasset" 597
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Steel.uasset" 598
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/LeverHandle.uasset" 599
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Objects/Lever/BP_Lever.uasset" 600
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Objects/Pitfall/pitSpawn.uasset" 601
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Objects/Pitfall/Pit_Zone.uasset" 602
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Components/Interfaces/BPI_Rune.uasset" 603
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/M_Rune_Puzzle_1.uasset" 604
-"../../../Engine/Content/BasicShapes/Plane.uasset" 605
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Purple.uasset" 606
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Crystal1.uasset" 607
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Objects/Puzzle_Runes/BP_NumberedRune.uasset" 608
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Components/Interfaces/BPI_Puzzle.uasset" 609
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Objects/Puzzle_Runes/BP_NumberPuzzleMaster.uasset" 610
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/M_Impulse_Rune.uasset" 611
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Props/MaterialSphere.uasset" 612
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/BP_ImpulseRune.uasset" 613
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/BP_MapPos.uasset" 614
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/M_Rune_Wall.uasset" 615
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/BP_RuneWall.uasset" 616
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Blueprints/BP_RuneWall_Puzzle.uasset" 617
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Crystal5.uasset" 618
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Crystal5_DM.uasset" 619
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/DarkSteel.uasset" 620
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Sword_big_Golden.uasset" 621
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Sword_big_Golden_DM.uasset" 622
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/DarkMetal.uasset" 623
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Fire.uasset" 624
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Torch.uasset" 625
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Destructibles/Torch2_DM.uasset" 626
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/A_memory.uasset" 627
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_AMemory.uasset" 628
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_ATool.uasset" 629
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/A_tool.uasset" 630
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_ATool.uasset" 631
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_ATreasure.uasset" 632
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/A_treasure.uasset" 633
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_ATreasure.uasset" 634
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_ClosedBook.uasset" 635
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Closed_book.uasset" 636
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_ClosedBook.uasset" 637
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_Confusion.uasset" 638
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Confusion.uasset" 639
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_Confusion.uasset" 640
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_CreativePassion.uasset" 641
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/creative_passion.uasset" 642
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_CreativePassion.uasset" 643
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_DestructionIsEasy.uasset" 644
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Destruction_is_easy.uasset" 645
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_DestructionIsEasy.uasset" 646
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_InAWorld.uasset" 647
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/In_a_world_of_swords_and_shields.uasset" 648
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_InAWorld.uasset" 649
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_PuzzleRunes.uasset" 650
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Puzzle_runes.uasset" 651
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_PuzzleRunes.uasset" 652
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_RealVictories.uasset" 653
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/Real_victories.uasset" 654
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_RealVictories.uasset" 655
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_SelfImprovement.uasset" 656
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/self_improvement.uasset" 657
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_SelfImprovement.uasset" 658
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_TheMeaningOfLife.uasset" 659
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/The_meaning_of_life.uasset" 660
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_TheMeaningOfLife.uasset" 661
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleDataTables/DT_TheVase.uasset" 662
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/The_vase.uasset" 663
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_TheVase.uasset" 664
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Maps/WizardSchool_BuiltData.uasset" 665
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 666
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Dirt.uasset" 667
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Light.uasset" 668
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree2.uasset" 669
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree2_Mat.uasset" 670
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree3.uasset" 671
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree3_Mat.uasset" 672
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree4.uasset" 673
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree4_Mat.uasset" 674
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree6.uasset" 675
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree6_Mat.uasset" 676
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree7.uasset" 677
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/Nature/OBJ/Tree7_Mat.uasset" 678
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/OtherDecorations/OBJ/Lilac.uasset" 679
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/paintings/Thor.uasset" 680
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/paintings/Thor_Mat.uasset" 681
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Materials/M_Glass.uasset" 682
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 683
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Materials/M_Water_Lake.uasset" 684
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 685
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Textures/T_Water_M.uasset" 686
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/StarterContent/Materials/M_Water_Ocean.uasset" 687
-"../../../Engine/Content/BasicShapes/Cube.uasset" 688
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 689
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Brick.uasset" 690
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Leaf_Texture.uasset" 691
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Curve_1_Overgrown.uasset" 692
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Curve_2.uasset" 693
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Doors_RoundArch_Covered.uasset" 694
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Floor_Diamond.uasset" 695
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Floor_Hole_Straight.uasset" 696
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Floor_Standard.uasset" 697
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Rail_Corner.uasset" 698
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Rail_Divider.uasset" 699
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Rail_Straight.uasset" 700
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Stairs.uasset" 701
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Stairs_2.uasset" 702
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Black.uasset" 703
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Main2.uasset" 704
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Support_Left.uasset" 705
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Support_Right.uasset" 706
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Support_Tall.uasset" 707
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Wall_ArchRound.uasset" 708
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Wall_Half.uasset" 709
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/OBJ/Wall_Overgrown.uasset" 710
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/Assets/DungeonGray/TowerCircleOvergrown.uasset" 711
-"../../../../../Unreal Engine/VorpalDagger/vorpaldaggertestTest/Content/ThirdPersonBP/Maps/WizardSchool.umap" 712
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 713
-"../../../Engine/Content/Maps/Entry.umap" 714
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/S_Subtitles.uasset" 1
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/WBP_Subtitles.uasset" 2
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/BP_SubtitlesManager.uasset" 3
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/BP_NarrationManager.uasset" 4
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_AMemory.uasset" 5
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_YouBroketheWorld.uasset" 6
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/You_broke_the_world.uasset" 7
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_YouBrokeTheWorld.uasset" 8
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/Teen.uasset" 9
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/Teen_Bd.uasset" 10
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/Teen_Font.uasset" 11
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-Classroom.uasset" 12
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-Clinic.uasset" 13
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-DiningHall.uasset" 14
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-DormitoryCommonRoom.uasset" 15
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-DrawbridgeExit.uasset" 16
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-EnchantmentRoom.uasset" 17
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-Field.uasset" 18
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-Garden.uasset" 19
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-HeadmastersOffice.uasset" 20
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-Library.uasset" 21
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/MapRoomNames/Word-MainHall.uasset" 22
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/WBP_UI.uasset" 23
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/GM_VorpalDagger.uasset" 24
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 25
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 26
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 27
+"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 28
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/IMG_6221_2_.uasset" 29
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/IMG_6222_1_.uasset" 30
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/BP_Button.uasset" 31
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/Scroll_Empty.uasset" 32
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/Word-Exit.uasset" 33
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/Word-Play.uasset" 34
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/WBP_End.uasset" 35
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/VorpalDag/color.uasset" 36
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/VorpalDag/swordMat.uasset" 37
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/VorpalDag/Sword317.uasset" 38
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 39
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 40
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 41
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Particles/P_dirt.uasset" 42
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Burst_M.uasset" 43
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Particles/Materials/M_Burst.uasset" 44
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 45
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 46
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 48
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 49
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Particles/P_Other.uasset" 50
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/SoundEffects/DaggerExplosion.uasset" 51
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/SoundEffects/DaggerExploding.uasset" 52
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/SoundEffects/DaggerOnDirt.uasset" 53
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/SoundEffects/DaggerPickup.uasset" 54
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/SoundEffects/PickupDagger.uasset" 55
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 56
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 57
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 58
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/Arrow.uasset" 59
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/Arrow_Sprite.uasset" 60
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/E_DaggerMovement.uasset" 61
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/EvilBGM.uasset" 62
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/SC_BGMEvil.uasset" 63
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/NeutralBGM.uasset" 64
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/SC_BGMNeutral.uasset" 65
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/BP_VorpalDaggerController.uasset" 66
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_Opener.uasset" 67
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Opening.uasset" 68
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_opener.uasset" 69
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 71
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 72
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 73
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 74
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 75
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 76
+"../../../Engine/Content/BasicShapes/Cone.uasset" 77
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 78
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 79
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 80
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 81
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 82
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 83
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 84
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 85
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 86
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 87
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 88
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 89
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 90
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 91
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 92
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 93
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 94
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 95
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 96
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 97
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 98
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 99
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 100
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 101
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 102
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 103
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 104
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 105
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 106
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 107
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 108
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 109
+"../../../Engine/Content/EditorResources/S_Note.uasset" 110
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 111
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 112
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 113
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 114
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 115
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 116
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 117
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 118
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 119
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 120
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 121
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 122
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 123
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 124
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 125
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 126
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 127
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 129
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 130
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 131
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 132
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 133
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 134
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 135
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 136
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 137
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 138
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 139
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 140
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 141
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 142
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 143
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 144
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 145
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 146
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 147
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 148
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 149
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 150
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 151
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 152
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 153
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 154
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 155
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 156
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 157
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 158
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 159
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 160
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 161
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 162
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 163
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 164
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 165
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 166
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 167
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 168
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 169
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 170
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 171
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 172
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 173
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 174
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 175
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 176
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 177
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 178
+"../../../Engine/Content/EngineResources/Black.uasset" 179
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 180
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 181
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 182
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 183
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 184
+"../../../Engine/Content/EngineSounds/Master.uasset" 185
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 186
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 187
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 188
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 189
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 190
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 191
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 192
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 193
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 194
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 195
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 196
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 197
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 198
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 199
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 200
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 201
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 202
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 203
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 204
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 205
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 206
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 207
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 208
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 209
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 210
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 211
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 212
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 213
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 214
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 215
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 216
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 217
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 218
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 219
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 220
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 221
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 222
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 223
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 224
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 225
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 226
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 227
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 228
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 229
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 231
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 232
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 233
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 234
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 235
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 236
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 237
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/IMG_6219_1_.uasset" 238
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/Word-Back.uasset" 239
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/Word-Controls.uasset" 240
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/Word-Paused.uasset" 241
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/WBP_PauseMenu.uasset" 242
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/image.uasset" 243
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/MenuStuff/Welcome-Scroll_Empty.uasset" 244
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/UI/WBP_WelcomeMenu.uasset" 245
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Maps/MainMenu.umap" 246
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 247
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Witch_Skeleton.uasset" 248
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ThirdPerson_Jump.uasset" 249
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ThirdPersonJump_Loop.uasset" 250
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ThirdPersonJump_Start.uasset" 251
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ThirdPersonIdle.uasset" 252
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ThirdPersonRun.uasset" 253
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ThirdPersonWalk.uasset" 254
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ThirdPerson_IdleRun_2D.uasset" 255
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Animations/ABP_Npc.uasset" 256
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/AI/BP_PatrolRoute.uasset" 257
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/AI/Enums/E_MovementSpeed.uasset" 258
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/AI/BPI_NpcAI.uasset" 259
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Belt.uasset" 260
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Clothes.uasset" 261
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Face.uasset" 262
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Gold.uasset" 263
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Hair.uasset" 264
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Hat.uasset" 265
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Skin.uasset" 266
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Witch_PhysicsAsset.uasset" 267
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/Materials/Witch.uasset" 268
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 269
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Spark_Core.uasset" 270
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Particles/Materials/M_Spark.uasset" 271
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Particles/P_Blood.uasset" 272
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Npc/BP_NpcBase.uasset" 273
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/BP_NarrationTrigger.uasset" 274
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_BadEndingPart1.uasset" 275
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Bad_ending_part_1.uasset" 276
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_BadEndingPart1.uasset" 277
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_BadEndingPart2.uasset" 278
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Bad_ending_part_2.uasset" 279
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_BadEndingPart2.uasset" 280
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_BadEndingPart3.uasset" 281
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Bad_ending_part_3.uasset" 282
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_BadEndingPart3.uasset" 283
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_GoodEndingPart1.uasset" 284
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Good_ending_part_1.uasset" 285
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_GoodEndingPart1.uasset" 286
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_GoodEndingPart2.uasset" 287
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Good_ending_part_2.uasset" 288
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_GoodEndingPart2.uasset" 289
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_MildEndingPart1.uasset" 290
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/mild_ending_part_1.uasset" 291
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_MildEndingPart1.uasset" 292
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_MildEndingPart2.uasset" 293
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Mild_ending_part_2.uasset" 294
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_MildEndingPart2.uasset" 295
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/BP_NarrationTrigger_End.uasset" 296
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 297
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 298
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 299
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 300
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 301
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 302
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 303
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 304
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 305
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Beige.uasset" 306
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/DarkRed.uasset" 307
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Golden.uasset" 308
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Book2_Closed.uasset" 309
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Book2_Closed_DM.uasset" 310
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/1-50/BP_28.uasset" 311
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/DarkWood.uasset" 312
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Metal.uasset" 313
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Wood.uasset" 314
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Cart.uasset" 315
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Cart_DM.uasset" 316
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/1-50/BP_49.uasset" 317
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/DarkWood.uasset" 318
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Main.uasset" 319
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Wood.uasset" 320
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Chair.uasset" 321
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Chair_DM.uasset" 322
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/1-50/BP_50.uasset" 323
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/DarkGrey_Floor.uasset" 324
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Grey_Floor.uasset" 325
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Fence_Straight_Modular.uasset" 326
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Fence_Straight_Modular_DM.uasset" 327
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_102.uasset" 328
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Flag.uasset" 329
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Flag_Wall.uasset" 330
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Flag_Wall_DM.uasset" 331
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_107.uasset" 332
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Texture.uasset" 333
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree5.uasset" 334
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree5_Mat.uasset" 335
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Flower.uasset" 336
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Flower_DM.uasset" 337
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_121.uasset" 338
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Brown.uasset" 339
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Glove.uasset" 340
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Glove_DM.uasset" 341
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_122.uasset" 342
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Green.uasset" 343
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Grass.uasset" 344
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Grass_DM.uasset" 345
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_123.uasset" 346
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/DarkWood.uasset" 347
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/LightGold.uasset" 348
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/LightWood.uasset" 349
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Hammer_Double_Golden.uasset" 350
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Hammer_Double_Golden_DM.uasset" 351
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_125.uasset" 352
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Grey.uasset" 353
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Pink.uasset" 354
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Mineral.uasset" 355
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Mineral_DM.uasset" 356
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_130.uasset" 357
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Parchment.uasset" 358
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Parchment_DM.uasset" 359
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_136.uasset" 360
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Marble.uasset" 361
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Pedestal2.uasset" 362
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Pedestal2_DM.uasset" 363
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_137.uasset" 364
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Pedestal.uasset" 365
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Pedestal_DM.uasset" 366
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_138.uasset" 367
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Glass.uasset" 368
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Liquid_Magenta.uasset" 369
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Potion4_Filled.uasset" 370
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Potion4_Filled_DM.uasset" 371
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/101-150/BP_150.uasset" 372
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Liquid_Cyan.uasset" 373
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Potion5_Filled.uasset" 374
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Potion5_Filled_DM.uasset" 375
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_152.uasset" 376
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Liquid_Yellow.uasset" 377
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Potion7_Filled.uasset" 378
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Potion7_Filled_DM.uasset" 379
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_156.uasset" 380
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Potion8_Empty.uasset" 381
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Potion8_Empty_DM.uasset" 382
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_157.uasset" 383
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Potion8_Filled.uasset" 384
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Potion8_Filled_DM.uasset" 385
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_158.uasset" 386
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Potion9_Empty.uasset" 387
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Potion9_Empty_DM.uasset" 388
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_159.uasset" 389
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Liquid_Green.uasset" 390
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Potion9_Filled.uasset" 391
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Potion9_Filled_DM.uasset" 392
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_160.uasset" 393
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Red.uasset" 394
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Ring3.uasset" 395
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Ring3_DM.uasset" 396
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_167.uasset" 397
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Cyan.uasset" 398
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Ring4.uasset" 399
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Ring4_DM.uasset" 400
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_168.uasset" 401
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Green.uasset" 402
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Ring6.uasset" 403
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Ring6_DM.uasset" 404
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_170.uasset" 405
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Stone.uasset" 406
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Statue_Fox.uasset" 407
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Statue_Fox_DM.uasset" 408
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_188.uasset" 409
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Statue.uasset" 410
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Statue_Horse.uasset" 411
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Statue_Horse_DM.uasset" 412
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_189.uasset" 413
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Statue_Stag.uasset" 414
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Statue_Stag_DM.uasset" 415
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_190.uasset" 416
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/DarkSteel.uasset" 417
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/DarkWood_001.uasset" 418
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/LightSteel.uasset" 419
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/LightWood.uasset" 420
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Steel.uasset" 421
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Sword_WallMount.uasset" 422
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Sword_WallMount_DM.uasset" 423
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_199.uasset" 424
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/DarkMetal.uasset" 425
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Table_Big.uasset" 426
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Table_Big_DM.uasset" 427
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/151-200/BP_200.uasset" 428
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Table_Small.uasset" 429
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Table_Small_DM.uasset" 430
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/200-233/BP_201.uasset" 431
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Fire.uasset" 432
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Torch.uasset" 433
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Torch_DM.uasset" 434
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/200-233/BP_203.uasset" 435
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Ceramic.uasset" 436
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Vase.uasset" 437
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Vase_DM.uasset" 438
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/200-233/BP_213.uasset" 439
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Highlights.uasset" 440
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Main.uasset" 441
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Wall.uasset" 442
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Wall_DM.uasset" 443
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/200-233/BP_221.uasset" 444
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Woodfire.uasset" 445
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Woodfire_DM.uasset" 446
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/200-233/BP_233.uasset" 447
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Fence_90_Modular.uasset" 448
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Fence_90_Modular_DM.uasset" 449
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/51-100/BP_100.uasset" 450
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Gold.uasset" 451
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Chalice.uasset" 452
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Chalice_DM.uasset" 453
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/51-100/BP_51.uasset" 454
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Chest.uasset" 455
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Chest2_DM.uasset" 456
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/51-100/BP_53.uasset" 457
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/51-100/BP_54.uasset" 458
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/51-100/BP_75.uasset" 459
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Axe_small_Golden.uasset" 460
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Axe_small_Golden_DM.uasset" 461
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_15.uasset" 462
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/DarkBrown.uasset" 463
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Bag.uasset" 464
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Bag_DM.uasset" 465
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_17.uasset" 466
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Barrel.uasset" 467
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Barrel_DM.uasset" 468
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_18.uasset" 469
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/BigBush.uasset" 470
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/BigBush_DM.uasset" 471
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_21.uasset" 472
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/BiggerBush.uasset" 473
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/BiggerBush_DM.uasset" 474
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_22.uasset" 475
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/BigTree2.uasset" 476
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/BigTree2_DM.uasset" 477
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_23.uasset" 478
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/BigTree.uasset" 479
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/BigTree_DM.uasset" 480
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_24.uasset" 481
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Book2_Open.uasset" 482
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Book2_Open_DM.uasset" 483
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_29.uasset" 484
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Teal.uasset" 485
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Book4_Open.uasset" 486
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Book4_Open_DM.uasset" 487
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_33.uasset" 488
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Book.uasset" 489
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Book2.uasset" 490
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Book3.uasset" 491
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Book4.uasset" 492
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Pages.uasset" 493
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Bookcase_Full.uasset" 494
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Bookcase_Full_DM.uasset" 495
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_35.uasset" 496
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Black.uasset" 497
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Armor_Black.uasset" 498
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Armor_Black_DM.uasset" 499
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_5.uasset" 500
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Armor_Golden.uasset" 501
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Armor_Golden_DM.uasset" 502
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_6.uasset" 503
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Crate.uasset" 504
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Crate2_DM.uasset" 505
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Materials/M_Basic_Wall.uasset" 506
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Shapes/Shape_Plane.uasset" 507
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Shapes/Shape_Plane_DM.uasset" 508
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_KeepingScore.uasset" 509
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Keeping_score.uasset" 510
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_KeepingScore.uasset" 511
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Flower4.uasset" 512
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Flower4_Mat.uasset" 513
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_73.uasset" 514
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonBrown/OBJ/Crate.uasset" 515
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Crate_DM.uasset" 516
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_74.uasset" 517
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Metal_Light.uasset" 518
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Doors_RoundArch.uasset" 519
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Doors_RoundArch_DM.uasset" 520
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/DestructibleBlueprints/used/BP_99.uasset" 521
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Components/Interfaces/BPI_Interactable.uasset" 522
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Components/Interfaces/BPI_Lever.uasset" 523
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DarkWood.uasset" 524
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/LightWood.uasset" 525
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Steel.uasset" 526
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/LeverHandle.uasset" 527
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Objects/Lever/BP_Lever.uasset" 528
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Objects/Pitfall/pitSpawn.uasset" 529
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Objects/Pitfall/Pit_Zone.uasset" 530
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Components/Interfaces/BPI_Rune.uasset" 531
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/M_Rune_Puzzle_1.uasset" 532
+"../../../Engine/Content/BasicShapes/Plane.uasset" 533
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Purple.uasset" 534
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Crystal1.uasset" 535
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Objects/Puzzle_Runes/BP_NumberedRune.uasset" 536
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Components/Interfaces/BPI_Puzzle.uasset" 537
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Objects/Puzzle_Runes/BP_NumberPuzzleMaster.uasset" 538
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/M_Impulse_Rune.uasset" 539
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Props/MaterialSphere.uasset" 540
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/BP_ImpulseRune.uasset" 541
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/BP_MapPos.uasset" 542
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/M_Rune_Wall.uasset" 543
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/BP_RuneWall.uasset" 544
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Blueprints/BP_RuneWall_Puzzle.uasset" 545
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Crystal5.uasset" 546
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Crystal5_DM.uasset" 547
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/DarkSteel.uasset" 548
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Sword_big_Golden.uasset" 549
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Sword_big_Golden_DM.uasset" 550
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/DarkMetal.uasset" 551
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Fire.uasset" 552
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Torch.uasset" 553
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Destructibles/Torch2_DM.uasset" 554
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/A_memory.uasset" 555
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_AMemory.uasset" 556
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_ATool.uasset" 557
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/A_tool.uasset" 558
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_ATool.uasset" 559
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_ATreasure.uasset" 560
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/A_treasure.uasset" 561
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_ATreasure.uasset" 562
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_ClosedBook.uasset" 563
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Closed_book.uasset" 564
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_ClosedBook.uasset" 565
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_Confusion.uasset" 566
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Confusion.uasset" 567
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_Confusion.uasset" 568
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_CreativePassion.uasset" 569
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/creative_passion.uasset" 570
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_CreativePassion.uasset" 571
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_DestructionIsEasy.uasset" 572
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Destruction_is_easy.uasset" 573
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_DestructionIsEasy.uasset" 574
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_InAWorld.uasset" 575
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/In_a_world_of_swords_and_shields.uasset" 576
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_InAWorld.uasset" 577
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_PuzzleRunes.uasset" 578
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Puzzle_runes.uasset" 579
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_PuzzleRunes.uasset" 580
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_RealVictories.uasset" 581
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/Real_victories.uasset" 582
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_RealVictories.uasset" 583
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_SelfImprovement.uasset" 584
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/self_improvement.uasset" 585
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_SelfImprovement.uasset" 586
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_TheMeaningOfLife.uasset" 587
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/The_meaning_of_life.uasset" 588
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_TheMeaningOfLife.uasset" 589
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleDataTables/DT_TheVase.uasset" 590
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/The_vase.uasset" 591
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Audio/Voiceover/SubtitleStuff/NLS_stuff/NLS_TheVase.uasset" 592
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Maps/WizardSchool_BuiltData.uasset" 593
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 594
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Dirt.uasset" 595
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Light.uasset" 596
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree2.uasset" 597
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree2_Mat.uasset" 598
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree3.uasset" 599
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree3_Mat.uasset" 600
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree4.uasset" 601
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree4_Mat.uasset" 602
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree6.uasset" 603
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree6_Mat.uasset" 604
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree7.uasset" 605
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/Nature/OBJ/Tree7_Mat.uasset" 606
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/OtherDecorations/OBJ/Lilac.uasset" 607
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/paintings/Thor.uasset" 608
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/paintings/Thor_Mat.uasset" 609
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Materials/M_Glass.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 611
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 612
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Water_M.uasset" 613
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Water_N.uasset" 614
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Materials/M_Water_Ocean.uasset" 615
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Bush_D.uasset" 616
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Textures/T_Bush_N.uasset" 617
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/StarterContent/Props/Materials/M_Bush.uasset" 618
+"../../../Engine/Content/BasicShapes/Cube.uasset" 619
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Brick.uasset" 620
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Leaf_Texture.uasset" 621
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Curve_1_Overgrown.uasset" 622
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Curve_2.uasset" 623
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Doors_RoundArch_Covered.uasset" 624
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Floor_Diamond.uasset" 625
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Floor_Hole_Straight.uasset" 626
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Floor_Standard.uasset" 627
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Rail_Corner.uasset" 628
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Rail_Divider.uasset" 629
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Rail_Straight.uasset" 630
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Stairs.uasset" 631
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Stairs_2.uasset" 632
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Black.uasset" 633
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Main2.uasset" 634
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Support_Left.uasset" 635
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Support_Right.uasset" 636
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Support_Tall.uasset" 637
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Wall_ArchRound.uasset" 638
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Wall_Half.uasset" 639
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/OBJ/Wall_Overgrown.uasset" 640
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/Assets/DungeonGray/TowerCircleOvergrown.uasset" 641
+"D:/UNREAL/projects/VorpalDaggerRefactor/Content/ThirdPersonBP/Maps/WizardSchool.umap" 642
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 643
+"../../../Engine/Content/Maps/Entry.umap" 644
